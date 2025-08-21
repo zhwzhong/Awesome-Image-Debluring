@@ -20,7 +20,7 @@
 ### 2024 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
-| A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring | | | |
+| A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring [pdf](https://www.ijcai.org/proceedings/2024/108) | CFFNet  | IJCAI-24 | -- | two stages |
 
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
