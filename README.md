@@ -1,1 +1,1 @@
-# Awesome-Event-based-Image-Reconstruction
+# Awesome-Image-Debluring
