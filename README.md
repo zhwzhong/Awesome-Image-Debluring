@@ -17,6 +17,7 @@
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
 |Separation for Better Integration: Disentangling Edge and Motion in Event-based Deblurring| EMNet | ICCV|  -- | edge and motion modeling| 
 |Asymmetric Hierarchical Difference-aware Interaction Network for Event-guided Motion Deblurring [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/33003)| AHDINet| AAAI | [GitCode](https://github.com/wyang-vis/AHDINet) | asymmetric bidirectional interaction |
+|ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring [pdf](https://arxiv.org/pdf/2501.15808) | BDHNet | arxiv | Bioinspired Model |
 ### 2024 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
