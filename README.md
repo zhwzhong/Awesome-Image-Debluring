@@ -62,7 +62,7 @@
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
 |Event-Based Video Reconstruction With Deep Spatial-Frequency Unfolding Network [pdf](https://ieeexplore.ieee.org/document/10930616) | DSFURNet | TIP-25|  -- | Spatial-Frequency Undolding| 
-|CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring [pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06838.pdf) | ECCV-24| CMTA | [Github](https://github.com/intelpro/CMTA) | event-guided video deblurring |
+|CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring [pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06838.pdf)| CMTA | ECCV-24 | [Github](https://github.com/intelpro/CMTA) | event-guided video deblurring |
 
 
 
