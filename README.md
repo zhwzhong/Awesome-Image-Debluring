@@ -15,7 +15,7 @@
 ### 2025 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
-
+|Separation for Better Integration: Disentangling Edge and Motion in Event-based Deblurring| EMNet | ICCV|  -- | edge and motion modeling| 
 
 ### 2024 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
