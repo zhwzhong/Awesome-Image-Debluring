@@ -22,7 +22,7 @@
 ### 2024 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
-| A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring [pdf](https://www.ijcai.org/proceedings/2024/108) | CFFNet  | IJCAI-24 | -- | two stages |
+| A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring [pdf](https://www.ijcai.org/proceedings/2024/108) | CFFNet  | IJCAI | -- | two stages |
 |Event-Assisted Blurriness Representation Learning for Blurry Image Unfolding [pdf](https://ieeexplore.ieee.org/document/10702490) |  BAUNet  | TIP | | --| Blurriness-Aware |
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
@@ -62,7 +62,7 @@
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
 |Event-Based Video Reconstruction With Deep Spatial-Frequency Unfolding Network [pdf](https://ieeexplore.ieee.org/document/10930616) | DSFURNet | TIP-25|  -- | Spatial-Frequency Undolding| 
-|CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring [pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06838.pdf) | ECCV-24| CMTA | https://github.com/intelpro/CMTA | event-guided video deblurring |
+|CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring [pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06838.pdf) | ECCV-24| CMTA | [Github](https://github.com/intelpro/CMTA) | event-guided video deblurring |
 
 
 
