@@ -23,6 +23,7 @@
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
 | A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring [pdf](https://www.ijcai.org/proceedings/2024/108) | CFFNet  | IJCAI-24 | -- | two stages |
 |CMTA: Cross-Modal Temporal Alignment for Event-guided Video Deblurring [pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06838.pdf) | ECCV| CMTA | https://github.com/intelpro/CMTA | event-guided video deblurring |
+|Event-Assisted Blurriness Representation Learning for Blurry Image Unfolding [pdf](https://ieeexplore.ieee.org/document/10702490) |  BAUNet  | TIP | | --| Blurriness-Aware |
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
