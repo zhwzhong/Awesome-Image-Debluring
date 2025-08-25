@@ -19,6 +19,7 @@
 |Asymmetric Hierarchical Difference-aware Interaction Network for Event-guided Motion Deblurring [pdf](https://ojs.aaai.org/index.php/AAAI/article/view/33003)| AHDINet| AAAI | [GitCode](https://github.com/wyang-vis/AHDINet) | asymmetric bidirectional interaction |
 |ClearSight: Human Vision-Inspired Solutions for Event-Based Motion Deblurring [pdf](https://arxiv.org/pdf/2501.15808) | BDHNet | arxiv | -- | Bioinspired Model |
 |Event-based Motion Deblurring with Blur-aware Reconstruction Filter [pdf](https://ieeexplore.ieee.org/document/10926552) | MBNet | TCSVT |[Github](https://github.com/ChenYichen9527/MBNet) | spatial blur indication |
+|Motion-adaptive Transformer for Event-based Image Deblurring [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/32967) | MAT | AAAI | [https://github.com/AHupuJR/EFNet](https://github.com/AHupuJR/EFNet) | motion masks, sparse attention |
 ### 2024 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
