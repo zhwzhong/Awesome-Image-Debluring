@@ -25,6 +25,7 @@
 | A Coarse-To-Fine Fusion Network for Event-Based Image Deblurring [pdf](https://www.ijcai.org/proceedings/2024/108) | CFFNet  | IJCAI | -- | two stages |
 |Event-Assisted Blurriness Representation Learning for Blurry Image Unfolding [pdf](https://ieeexplore.ieee.org/document/10702490) |  BAUNet  | TIP | | --| Blurriness-Aware |
 |Learning Frame-Event Fusion for Motion Deblurring [pdf](https://ieeexplore.ieee.org/document/10794620) |  FEF-Deblur | TIP | -- | Complementary-unique feature separation and aggregation |
+|Motion Deblur by Learning Residual From Events [pdf](https://ieeexplore.ieee.org/document/10403964) | TRMD | TMM | [Github](https://github.com/chenkang455/TRMD) | Residual-based Motion Deblurring |
 ### 2023 Venuse
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
