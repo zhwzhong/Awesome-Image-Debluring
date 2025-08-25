@@ -56,10 +56,11 @@
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
 
-## Simultaneous Motion Deblurring and Event Super-Resolving
+## Simultaneous Motion Deblurring and Event Enhancement
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
 | :----------------------------------------------------------- | :---: | :--: | :---------------------------------------------------------: |:---------------------------------------------------------: |
 |CrossZoom: Simultaneous Motion Deblurring and Event Super-Resolving| CZ-Net | TPAMI-24|  -- | MD + ESR| 
+|Neuromorphic Imaging With Joint Image Deblurring and Event Denoising [pdf](https://ieeexplore.ieee.org/document/10471264) | NI-JONIT | [Github](https://github.com/pz-even/ni-joint) | Event Denoising and Image Deblurring |
 
 ## Event-based Video Debluring
 | Title                                                        | Model | Published |                            Code                   |Keywords          |
